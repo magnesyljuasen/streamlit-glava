@@ -8,6 +8,7 @@ from datetime import datetime as dt
 import plotly.graph_objs as go
 from plotly.subplots import make_subplots
 
+
 st.set_page_config(
     page_title="Glava",
     layout="centered"
